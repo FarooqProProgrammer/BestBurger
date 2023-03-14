@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.base_color {
+  color: RGBA(246, 75, 60, 1);
+}
+.base_bg {
+  background-color: RGBA(246, 75, 60, 1);
+}
